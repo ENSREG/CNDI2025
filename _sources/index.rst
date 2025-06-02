@@ -14,18 +14,10 @@ Lecture and Office Hours
    +--------------------+------------------------------+-----------------------------------------------------------+
    | Title              | Time                         | Location                                                  |
    +====================+==============================+===========================================================+
-   | Lectures           | 10:10 - 12:00 pm (Mon.)      | ED-302                                                    |
+   | Lectures           | 13:20 - 16:20 (Mon.)         | ED-201                                                    |
    +--------------------+------------------------------+-----------------------------------------------------------+
-   | Office Hours       | 5:00 - 6:00 pm (Mon.)        | EC-707                                                    |
-   +--------------------+------------------------------+-----------------------------------------------------------+
-   | Lab Demo Hours     | 7:00 - 9:00 pm (Thur.)       | EC-222                                                    |
-   +--------------------+------------------------------+-----------------------------------------------------------+
-   | Lecture Website    | `Link <https://people.cs.nycu.edu.tw/~ttyeh/course/2024_Spring/IOC5226/outline.html>`_   |
+   | Course syllabus    | `Link <https://timetable.nycu.edu.tw/?r=main/crsoutline&Acy=114&Sem=1&CrsNo=535607&lang=en>`_   |
    +--------------------+------------------------------------------------------------------------------------------+
-
-.. important::
-  Check the `lecture website`_ for the schedule and the lecture slides!
-.. _lecture website: https://people.cs.nycu.edu.tw/~ttyeh/course/2024_Spring/IOC5226/outline.html
 
 
 .. important::
