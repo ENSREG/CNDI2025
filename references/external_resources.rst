@@ -29,6 +29,8 @@ Available soon
 
 **Course slides**
 
-Available soon
+* Week 1: https://hackmd.io/@cndi2025/B1CuTo0Gll
+* Week 2: https://hackmd.io/@cndi2025/rkyMMm88xg
+* Week 3: https://hackmd.io/@cndi2025/S1BM-mULgg
 
 
