@@ -13,6 +13,6 @@ Instructor
 
 Teaching assistant(s)
 **********************
-**Fing Du**
+**Feng Tu**
 
 * dufengpro.ii13 [at] nycu.edu.tw 
